@@ -1,56 +1,3 @@
-The Project Gutenberg eBook of Alice’s Adventures in Wonderland, by Lewis Carroll
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: Alice’s Adventures in Wonderland
-
-Author: Lewis Carroll
-
-Release Date: January, 1991 [eBook #11]
-[Most recently updated: October 12, 2020]
-
-Language: English
-
-Character set encoding: UTF-8
-
-Produced by: Arthur DiBianca and David Widger
-
-*** START OF THE PROJECT GUTENBERG EBOOK ALICE’S ADVENTURES IN WONDERLAND ***
-
-[Illustration]
-
-
-
-
-Alice’s Adventures in Wonderland
-
-by Lewis Carroll
-
-THE MILLENNIUM FULCRUM EDITION 3.0
-
-Contents
-
- CHAPTER I.     Down the Rabbit-Hole
- CHAPTER II.    The Pool of Tears
- CHAPTER III.   A Caucus-Race and a Long Tale
- CHAPTER IV.    The Rabbit Sends in a Little Bill
- CHAPTER V.     Advice from a Caterpillar
- CHAPTER VI.    Pig and Pepper
- CHAPTER VII.   A Mad Tea-Party
- CHAPTER VIII.  The Queen’s Croquet-Ground
- CHAPTER IX.    The Mock Turtle’s Story
- CHAPTER X.     The Lobster Quadrille
- CHAPTER XI.    Who Stole the Tarts?
- CHAPTER XII.   Alice’s Evidence
-
-
-
 
 CHAPTER I.
 Down the Rabbit-Hole
@@ -62,7 +9,7 @@ the book her sister was reading, but it had no pictures or
 conversations in it, “and what is the use of a book,” thought Alice
 “without pictures or conversations?”
 
-So she was considering in her own mind (as well as she could, for the
+So she was thinking in her own mind (as well as she could, for the
 hot day made her feel very sleepy and stupid), whether the pleasure of
 making a daisy-chain would be worth the trouble of getting up and
 picking the daisies, when suddenly a White Rabbit with pink eyes ran
@@ -3736,26 +3683,5 @@ methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org
-
-This website includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
 
 
