@@ -8,7 +8,7 @@ This is a git training project
 
 - EG: rabbit -> Rabbit
 - XO: rat -> Rat
-- A: cat -> Cat
+- A: cat -> Cat IN PROGRESS
 - S: caterpillar - C...
 
 ### Complete
