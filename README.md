@@ -7,7 +7,7 @@ This is a git training project
 ### Pending
 
 - EG: rabbit -> Rabbit (in progress)
-- XO: rat -> Rat
+- XO: rat -> Rat (in progress)
 - A: cat -> Cat IN PROGRESS
 - AB: task (DONE)
 - S: caterpillar - C... (In Progress)
