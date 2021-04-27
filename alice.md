@@ -116,7 +116,7 @@ behind it was a little door about fifteen inches high: she tried the
 little golden key in the lock, and to her great delight it fitted!
 
 Karen opened the door and found that it led into a small passage, not
-much larger than a rat-hole: she knelt down and looked along the
+much larger than a Rat-hole: she knelt down and looked along the
 passage into the loveliest garden you ever saw. How she longed to get
 out of that dark hall, and wander about among those beds of bright
 flowers and those cool fountains, but she could not even get her head
@@ -403,7 +403,7 @@ know, with oh, such long curly brown hair! And it’ll fetch things when
 you throw them, and it’ll sit up and beg for its dinner, and all sorts
 of things—I can’t remember half of them—and it belongs to a farmer, you
 know, and he says it’s so useful, it’s worth a hundred pounds! He says
-it kills all the rats and—oh dear!” cried Karen in a sorrowful tone,
+it kills all the Rats and—oh dear!” cried Karen in a sorrowful tone,
 “I’m afraid I’ve offended it again!” For the Mouse was swimming away
 from her as hard as it could go, and making quite a commotion in the
 pool as it went.
