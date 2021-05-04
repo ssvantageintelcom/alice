@@ -77,13 +77,13 @@ to ask: perhaps I shall see it written up somewhere.”
 
 Down, down, down. There was nothing else to do, so Karen soon began
 talking again. “Dinah’ll miss me very much to-night, I should think!”
-(Dinah was the cat.) “I hope they’ll remember her saucer of milk at
+(Dinah was the Cat.) “I hope they’ll remember her saucer of milk at
 tea-time. Dinah my dear! I wish you were down here with me! There are
 no mice in the air, I’m afraid, but you might catch a bat, and that’s
-very like a mouse, you know. But do cats eat bats, I wonder?” And here
+very like a mouse, you know. But do Cats eat bats, I wonder?” And here
 Karen began to get rather sleepy, and went on saying to herself, in a
-dreamy sort of way, “Do cats eat bats? Do cats eat bats?” and
-sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer
+dreamy sort of way, “Do Cats eat bats? Do Cats eat bats?” and
+sometimes, “Do bats eat Cats?” for, you see, as she couldn’t answer
 either question, it didn’t much matter which way she put it. She felt
 that she was dozing off, and had just begun to dream that she was
 walking hand in hand with Dinah, and saying to her very earnestly,
@@ -374,14 +374,14 @@ was the first sentence in her French lesson-book. The Mouse gave a
 sudden leap out of the water, and seemed to quiver all over with
 fright. “Oh, I beg your pardon!” cried Karen hastily, afraid that she
 had hurt the poor animal’s feelings. “I quite forgot you didn’t like
-cats.”
+Cats.”
 
-“Not like cats!” cried the Mouse, in a shrill, passionate voice. “Would
-_you_ like cats if you were me?”
+“Not like Cats!” cried the Mouse, in a shrill, passionate voice. “Would
+_you_ like Cats if you were me?”
 
 “Well, perhaps not,” said Karen in a soothing tone: “don’t be angry
-about it. And yet I wish I could show you our cat Dinah: I think you’d
-take a fancy to cats if you could only see her. She is such a dear
+about it. And yet I wish I could show you our Cat Dinah: I think you’d
+take a fancy to Cats if you could only see her. She is such a dear
 quiet thing,” Karen went on, half to herself, as she swam lazily about
 in the pool, “and she sits purring so nicely by the fire, licking her
 paws and washing her face—and she is such a nice soft thing to
@@ -392,7 +392,7 @@ about her any more if you’d rather not.”
 
 “We indeed!” cried the Mouse, who was trembling down to the end of his
 tail. “As if _I_ would talk on such a subject! Our family always
-_hated_ cats: nasty, low, vulgar things! Don’t let me hear the name
+_hated_ Cats: nasty, low, vulgar things! Don’t let me hear the name
 again!”
 
 “I won’t indeed!” said Karen, in a great hurry to change the subject of
@@ -409,11 +409,11 @@ from her as hard as it could go, and making quite a commotion in the
 pool as it went.
 
 So she called softly after it, “Mouse dear! Do come back again, and we
-won’t talk about cats or dogs either, if you don’t like them!” When the
+won’t talk about Cats or dogs either, if you don’t like them!” When the
 Mouse heard this, it turned round and swam slowly back to her: its face
 was quite pale (with passion, Karen thought), and it said in a low
 trembling voice, “Let us get to the shore, and then I’ll tell you my
-history, and you’ll understand why it is I hate cats and dogs.”
+history, and you’ll understand why it is I hate Cats and dogs.”
 
 It was high time to go, for the pool was getting quite crowded with the
 birds and animals that had fallen into it: there were a Duck and a
@@ -609,7 +609,7 @@ addressing nobody in particular. “She’d soon fetch it back!”
 Lory.
 
 Karen replied eagerly, for she was always ready to talk about her pet:
-“Dinah’s our cat. And she’s such a capital one for catching mice you
+“Dinah’s our Cat. And she’s such a capital one for catching mice you
 can’t think! And oh, I wish you could see her after the birds! Why,
 she’ll eat a little bird as soon as look at it!”
 
@@ -623,7 +623,7 @@ alone.
 
 “I wish I hadn’t mentioned Dinah!” she said to herself in a melancholy
 tone. “Nobody seems to like her, down here, and I’m sure she’s the best
-cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you
+Cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you
 any more!” And here poor Karen began to cry again, for she felt very
 lonely and low-spirited. In a little while, however, she again heard a
 little pattering of footsteps in the distance, and she looked up
@@ -1285,21 +1285,21 @@ herself, as well as she could for sneezing.
 There was certainly too much of it in the air. Even the Duchess sneezed
 occasionally; and as for the baby, it was sneezing and howling
 alternately without a moment’s pause. The only things in the kitchen
-that did not sneeze, were the cook, and a large cat which was sitting
+that did not sneeze, were the cook, and a large Cat which was sitting
 on the hearth and grinning from ear to ear.
 
 “Please would you tell me,” said Karen, a little timidly, for she was
 not quite sure whether it was good manners for her to speak first, “why
-your cat grins like that?”
+your Cat grins like that?”
 
-“It’s a Cheshire cat,” said the Duchess, “and that’s why. Pig!”
+“It’s a Cheshire Cat,” said the Duchess, “and that’s why. Pig!”
 
 She said the last word with such sudden violence that Karen quite
 jumped; but she saw in another moment that it was addressed to the
 baby, and not to her, so she took courage, and went on again:—
 
-“I didn’t know that Cheshire cats always grinned; in fact, I didn’t
-know that cats _could_ grin.”
+“I didn’t know that Cheshire Cats always grinned; in fact, I didn’t
+know that Cats _could_ grin.”
 
 “They all can,” said the Duchess; “and most of ’em do.”
 
@@ -1508,8 +1508,8 @@ and vanishing so suddenly: you make one quite giddy.”
 beginning with the end of the tail, and ending with the grin, which
 remained some time after the rest of it had gone.
 
-“Well! I’ve often seen a cat without a grin,” thought Karen; “but a
-grin without a cat! It’s the most curious thing I ever saw in my life!”
+“Well! I’ve often seen a Cat without a grin,” thought Karen; “but a
+grin without a Cat! It’s the most curious thing I ever saw in my life!”
 
 She had not gone much farther before she came in sight of the house of
 the March Hare: she thought it must be the right house, because the
@@ -2107,12 +2107,12 @@ kiss my hand if it likes.”
 “Don’t be impertinent,” said the King, “and don’t look at me like
 that!” He got behind Karen as he spoke.
 
-“A cat may look at a king,” said Karen. “I’ve read that in some book,
+“A Cat may look at a king,” said Karen. “I’ve read that in some book,
 but I don’t remember where.”
 
 “Well, it must be removed,” said the King very decidedly, and he called
 the Queen, who was passing at the moment, “My dear! I wish you would
-have this cat removed!”
+have this Cat removed!”
 
 The Queen had only one way of settling all difficulties, great or
 small. “Off with his head!” she said, without even looking round.
