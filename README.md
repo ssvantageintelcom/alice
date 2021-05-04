@@ -6,12 +6,13 @@ This is a git training project
 
 ### Pending
 
-- EG: rabbit -> Rabbit (in progress)
-- A: cat -> Cat IN PROGRESS
+- EG: rabbit -> Rabbit (In Progress)
 
 ### Complete
 
 - L: alice -> Karen (Complete)
+- A: cat -> Cat (Complete)
 - X: rat -> Rat (Complete)
-- AB: task (DONE)
 - SS: caterpillar -> Caterpillar (Complete)
+- AB: task (Complete)
+
